@@ -42,3 +42,8 @@ source_metadata:
       parent: Sādhanas
 created_at: '2022-03-01T06:32:25.087923'
 last_modified_at: '2022-03-01T06:32:25.087926'
+statistics:
+  total_words: 3729
+  total_non_words: 356
+quality:
+  non_words_ratio: 0.1
